@@ -1,16 +1,14 @@
-# WalletAI
-Challenge: criação de um agente no Foundry para o Azure Frontier Girls. Este projeto desenvolve um agente especializado em aconselhamento financeiro pessoal, focado em ajudar usuárias a entender e equilibrar melhor sua vida financeira.
+Este repositório reúne o desafio de criação de um agente no Azure AI Foundry para o programa Azure Frontier Girls. O projeto consiste no WalletAI, um agente voltado para aconselhamento financeiro pessoal, criado para ajudar usuárias a entender e organizar sua vida financeira de maneira simples e prática.
 
-  O WalletAI é um agente inteligente desenvolvido no Azure AI Foundry, projetado para atuar como um conselheiro financeiro digital. Ele oferece orientações simples, práticas e personalizadas para ajudar usuários a entender sua própria realidade financeira, identificar desequilíbrios e propor caminhos para alcançar maior estabilidade e planejamento.
-   A motivação para a criação deste agente nasce da necessidade de democratizar o acesso a educação financeira. Muitas pessoas enfrentam dificuldades para organizar seus gastos, controlar o orçamento ou estabelecer metas realistas, e acabam sem saber por onde começar. Ter um agente acessível, disponível a qualquer momento e capaz de traduzir informações financeiras de forma clara e amigável pode fazer a diferença no dia a dia.
+O WalletAI funciona como um conselheiro digital: a partir de informações como renda, gastos essenciais e não essenciais, ele analisa a situação financeira do usuário, identifica desequilíbrios e sugere ações diretas para otimizar o orçamento, reduzir excessos e estruturar metas de curto prazo.
+Além disso, o agente possui funcionalidades de cálculo, incluindo percentuais de gastos, distribuição ideal do orçamento e estimativas de economia com base nos valores fornecidos.
 
-   O WalletAI funciona como um assistente pessoal financeiro, trazendo recomendações estruturadas com base nas informações fornecidas pelo usuário. Ele analisa renda, despesas, possíveis dívidas e objetivos, e devolve um diagnóstico completo, acompanhado de sugestões práticas, priorização de ações e planos simplificados — tudo voltado para facilitar a tomada de decisão.
+A motivação do projeto é facilitar o acesso à educação financeira. Muitas pessoas têm dificuldade para interpretar seus próprios números, definir prioridades ou entender para onde o dinheiro está indo. O WalletAI busca simplificar esse processo com respostas objetivas, linguagem clara e orientações aplicáveis ao dia a dia.
 
-   Seu objetivo é oferecer ao usuário o equivalente a “ter um conselheiro financeiro ao lado”, capaz de:
-	•	ajudar a interpretar sua situação financeira;
-	•	orientar sobre formas de otimizar o orçamento;
-	•	sugerir estratégias realistas para economia;
-	•	criar pequenos planos de ação ou metas de curto prazo;
-	•	apoiar a construção de hábitos financeiros mais saudáveis.
+As referências de conhecimento utilizadas no agente seguem diretrizes de educação financeira do Banco Central do Brasil (https://bcb.gov.br/cidadaniafinanceira
+). O desenvolvimento foi realizado usando Azure AI Foundry.
 
-A proposta é tornar o tema finanças mais acessível, reduzindo a complexidade e incentivando o usuário a tomar decisões conscientes. Em resumo, o FinCheckAI foi criado para ajudar pessoas a se organizarem melhor, entenderem seus próprios números e se sentirem mais seguras em relação ao futuro financeiro.
+Em resumo, o WalletAI foi criado para oferecer clareza, organização e apoio para quem busca melhorar sua relação com o próprio dinheiro.
+
+## Link para o Agente Wallet AI 
+https://ai.azure.com/resource/agentsList?wsid=/subscriptions/5811e55a-d1c9-4510-93b9-e15801bd177e/resourceGroups/rg-challenge-emmanuelle/providers/Microsoft.CognitiveServices/accounts/emman-mias5jyz-eastus2/projects/emman-mias5jyz-eastus2_project&tid=fdb7763a-1791-4ba1-aff6-bf293e46bdb2
