@@ -5,7 +5,8 @@ O WalletAI funciona como um conselheiro digital: a partir de informações como 
 A motivação do projeto é facilitar o acesso à educação financeira. Muitas pessoas têm dificuldade para interpretar seus próprios números, definir prioridades ou entender para onde o dinheiro está indo. O WalletAI busca simplificar esse processo com respostas objetivas, linguagem clara e orientações aplicáveis ao dia a dia.
 
 As referências de conhecimento utilizadas no agente seguem diretrizes de educação financeira do Banco Central do Brasil (https://bcb.gov.br/cidadaniafinanceira
-). 
+)
+
 Prompts recomendados para testagem do agente
 
 • “Meu salário é de [valor] e meus gastos mensais são de [valor]. Qual porcentagem da minha renda estou comprometendo e o que isso significa para meu orçamento?”
